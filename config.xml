@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget 
-	id = "net.avantic.pythonalgo"
+	id = "net.avantic.pythonalgo3"
     versionCode = "12"
     version = "2.4"
 	android-versionCode="103021" 
@@ -16,7 +16,7 @@ xmlns:gap="http://phonegap.com/ns/1.0"
 		android:anyDensity="true"
 		/>
 	</edit-config>
-    <name>Algorithms in Python</name>
+    <name> Python Examples</name>
     
     <description>TestApp for AdMob</description>
     <author email="ingalbi@gmail.com" href="http://ingalb.info/">ingalb</author>
